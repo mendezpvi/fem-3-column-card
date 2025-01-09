@@ -37,7 +37,7 @@ Users should be able to:
 
 [Live site URL here](https://mendezpvi.github.io/fem-3-column-card/) 👈
 
-<!-- [Solution in Frontend Mentor here]() 👈 -->
+[Solution in Frontend Mentor here](https://www.frontendmentor.io/solutions/3-column-preview-card-component-using-grid-XBa8_s__cD) 👈
 
 
 ## Built with :hammer_and_pick:
